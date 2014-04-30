@@ -3,9 +3,9 @@ Welcome to "CS50" for Java (LaunchCode Edition)
 
 This is a course exploring the language intricacies and functionality of Java.
 
-Using the same methodology as Harvard's CS50 class, this course hopes to expose new programming ideas and create proficiency in understanding and composing code in the Java Virtual Machine.
+Most likely, you already know C.  That's great.   
 
-Most likely, you already know C.  That's great.   This course will expand upon that knowledge and provide insight into new technologies and techniques used in modern industry practice.
+This course will expand upon that knowledge and provide insight into new technologies and techniques used in modern industry practice.
 
 Topics Include:
 1.  Java Collections (Bye Bye Arrays)
