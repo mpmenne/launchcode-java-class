@@ -1,4 +1,4 @@
-Welcome to "CS50" for Java (LaunchCode Edition)
+Java for CS50 students (LaunchCode Edition)
 =============================================
 
 This is a course exploring the language intricacies and functionality of Java.
