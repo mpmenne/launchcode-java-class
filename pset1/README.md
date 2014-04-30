@@ -13,5 +13,7 @@ First and foremost:
 * When it is complete commit the project as a new repository to Github.
 
 Helpful Resources:
+
 [Mike's Java Examples](https://github.com/MoMenne/cs50-java-examples)
+
 [Mike's Training for Java Certification](https://github.com/MoMenne/summer-scjp)
