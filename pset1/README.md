@@ -14,7 +14,6 @@ First and foremost:
 Creating Mario using Java will help you get used to the Java syntax as well as familiarize yourself with loops and Strings.
 
 Check out the following video for working with Java on the command line:
-
 [Java on the Command Line](http://tv.launchcode.us/#/videos/java-on-the-command-line?lesson=Java)
 
 Helpful Resources:
