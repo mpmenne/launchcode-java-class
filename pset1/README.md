@@ -9,8 +9,13 @@ First and foremost:
 * Watch the [LaunchCodeTV Java series](http://tv.launchcode.us/#/videos/java-on-the-command-line?lesson=Java) to help get your environment setup.
 * Purcase the book ["Clean Code" by Robert Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * Create the "Mario" application using Java instead of C
-* If you used arrays in Step 3, now try and create Mario using Java Collections.
 * When it is complete commit the project as a new repository to Github.
+
+Creating Mario using Java will help you get used to the Java syntax as well as familiarize yourself with loops and Strings.
+
+Check out the following video for working with Java on the command line:
+
+[Java on the Command Line](http://tv.launchcode.us/#/videos/java-on-the-command-line?lesson=Java)
 
 Helpful Resources:
 
