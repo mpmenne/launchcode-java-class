@@ -10,6 +10,7 @@ First and foremost:
 * Purcase the book ["Clean Code" by Robert Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * Create the "Mario" application using Java instead of C
 * When it is complete commit the project as a new repository to Github.
+* When you're done, send me an email by using the email address on my [Profile Page](https://github.com/MoMenne)
 
 Creating Mario using Java will help you get used to the Java syntax as well as familiarize yourself with loops and Strings.
 
