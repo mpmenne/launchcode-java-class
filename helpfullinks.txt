@@ -1,0 +1,3 @@
+
+How to remove compiled binaries from your Github repo
+https://github.com/blog/1545-deleting-files-on-github
