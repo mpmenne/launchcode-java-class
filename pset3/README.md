@@ -4,7 +4,7 @@ PSET 3
 In this problem set we're going to expand upon our Mario application by refactoring to use the Factory Design Pattern.
 
 * First, we're going to do some clean up on our Mario application.  If you haven't already done so, refactor your code so that a Pyramid class encapsulates the functionality around creating a Pyramid.
-* Next we're going to ensure that our application can only  printPyramids.  Modify your printer classes so that they no longer print Strings, but accept Pyramids as arguments. (Hint, you might want to checkout the toString() method)
+* Next we're going to ensure that our application can only  print Pyramids.  Modify your printer classes so that they no longer print Strings, but accept Pyramids as arguments. (Hint, you might want to checkout the toString() method)
 * Finally, implement the Factory Design Pattern to hide the instantiation of the Pyramid objects.    
 
 There's a book called Head First Design Patterns that does a great job of explaing how this pattern works and is implemented.
