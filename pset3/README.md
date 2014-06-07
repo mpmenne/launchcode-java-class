@@ -3,19 +3,16 @@ PSET 3
 
 In this problem set we're going to expand upon our Mario application by refactoring to use the Factory Design Pattern.
 
-* First, we're going to do some clean up on our Mario application.  If you haven't already done so, refactor your code so that a Pyramid class encapsulates the functionality around creating a Pyramid.
-* Next we're going to ensure that our application can only  print Pyramids.  Modify your printer classes so that they no longer print Strings, but accept Pyramids as arguments. (Hint, you might want to checkout the toString() method in [this video](http://tv.launchcode.us/#/videos/java_override?lesson=Java))
-* Finally, implement the Factory Design Pattern to hide the instantiation of the Pyramid objects as describe in [this video](http://tv.launchcode.us/#/videos/java_factory_design_pattern?lesson=Java).    
+* First, cleanup Mario.java.  Refactor your code so that a Pyramid class encapsulates the core logic.
+* Next, ensure that your Printer interface only accepts Pyramids.  Use "toString" on the pyramid as described in [this video](http://tv.launchcode.us/#/videos/java_override?lesson=Java)).
+* Finally, implement the Factory Design Pattern to hide the instantiation of the Pyramid objects [ here's how video](http://tv.launchcode.us/#/videos/java_factory_design_pattern?lesson=Java).    
 
-There's a book called Head First Design Patterns that does a great job of explaing how this pattern works and is implemented.
+THead First Design Patterns that does a great job of explaing how this pattern works and is implemented.
 
-You can Head First Design Patterns in print on Amazon:
-http://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=sr_1_1?ie=UTF8&qid=1401290803&sr=8-1&keywords=head+first+design+patterns
+You can get [Head First Design Patterns in print on Amazon](http://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=sr_1_1?ie=UTF8&qid=1401290803&sr=8-1&keywords=head+first+design+patterns)
 
-Or you can get it as an ebook with a free trial of Safari Books:
-https://ssl.safaribooksonline.com/trial
+Or you can get it as an ebook with a [free trial of Safari Books](https://ssl.safaribooksonline.com/trial)
 
-Videos coming this week.
-
+Email me at my email address on my profile page when your homework is complete.
 
 
