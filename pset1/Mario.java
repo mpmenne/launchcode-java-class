@@ -61,12 +61,20 @@ public class Mario
     {
         // validate user input
         if (args.length == 0)
+        {
             System.out.println("Usage: java Mario height");
+            return;
+        }
 
         int height = Integer.parseInt(args[0]);
-        
+        if (height < 0 || height > 23)
+        {
+            System.out.println("Sorry, height must be between 0 and 23");
+            return;
+        }
+
         Mario mario = new Mario(height);
-        mario.printPyramid(false);
+        mario.printPyramid(true);
     }
 
 }
