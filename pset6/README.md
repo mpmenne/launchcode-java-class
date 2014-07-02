@@ -17,7 +17,7 @@ Practice:
 
 * Query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
 
-* Query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
+* Query to list the total number of Metrolink stations 
 
 * Query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
 
@@ -25,14 +25,16 @@ Practice:
 Coding:
 --------
 
-Great now create a maven, unit-testable, Spring-enabled project (Feel free to reuse the (Greedy template)[https://github.com/MoMenne/launchcode-greedy-template])
+Great now create a maven, unit-testable, Spring-enabled project 
+
+(Feel free to reuse the (Greedy template)[https://github.com/MoMenne/launchcode-greedy-template])
 
 Write a command line Java app that does the following things:
 *    -> Lists all of the Metrolink Stations
 *    -> Asks the user what station they are currently at
 *    -> Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
 
-After watching the following [video]() use JDBC to query the metrolink.db database for the information you need to complete the application
+Use JDBC to query the metrolink.db database to gather the information that you need
 
 Email me when you're done.  Happy Coding!
 
