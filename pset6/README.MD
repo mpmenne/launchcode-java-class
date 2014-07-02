@@ -31,6 +31,5 @@ Steps:
 
 8)  After watching the following [video]() use JDBC to query the metrolink.db database for the information you need to complete the application
 
-
 Email me when you're done.  Happy Coding!
 
