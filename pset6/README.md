@@ -15,15 +15,13 @@ Practice:
 
 3.  Brush up on your SQL.  In this video we're going to talk about SELECTs, CREATEs, UPDATEs, JOINs, and VIEWs
 
-4.  Watch this video on how to output text from your queries
-
 5.  We're going to ask some questions of the Metrolink transit data (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
 
-*     ->  Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
+* Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
 
-*    ->  Write a query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
+* Write a query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
 
-*    ->  Write a query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
+* Write a query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
 
 
 Coding:
