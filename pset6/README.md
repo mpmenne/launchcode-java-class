@@ -11,17 +11,15 @@ Practice:
 
 1.  Fork the following repository: https://github.com/MoMenne/metrolink-stl-data
 
-2.  Watch the following [video](http://tv.launchcode.us/#/videos/sqlite?lesson=Databases) on the basics how to work with an SQLite database
+2.  Watch the following [video](http://tv.launchcode.us/#/videos/sqlite?lesson=Databases) on the basics how to work with an SQLite database and this []() to brush up on your SQL
 
-3.  Brush up on your SQL.  In this video we're going to talk about SELECTs, CREATEs, UPDATEs, JOINs, and VIEWs
+3.  Write the following queries against the databse (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
 
-5.  We're going to ask some questions of the Metrolink transit data (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
+* Query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
 
-* Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
+* Query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
 
-* Write a query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
-
-* Write a query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
+* Query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
 
 
 Coding:
