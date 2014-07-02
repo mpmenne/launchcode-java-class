@@ -7,6 +7,7 @@ We're going to deviate just a bit from the CS50 coursework to delve into the wor
 
 
 Practice:
+----------
 
 1.  Fork the following repository: https://github.com/MoMenne/metrolink-stl-data
 
@@ -18,14 +19,15 @@ Practice:
 
 5.  We're going to ask some questions of the Metrolink transit data (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
 
-*     ->  Question 1:  Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
+*     ->  Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words "METROLINK STATION")
 
-*    ->  Question 2:  Write a query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
+*    ->  Write a query to list the total number of Metrolink stations  (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
 
-*    ->  Question 3:  Write a query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
+*    ->  Write a query to list of all of the arrival times at the Shrewsbury Metrolink Stations.
 
 
 Coding:
+--------
 
 Great now create a maven, unit-testable, Spring-enabled project (Feel free to reuse the (Greedy template)[https://github.com/MoMenne/launchcode-greedy-template])
 
