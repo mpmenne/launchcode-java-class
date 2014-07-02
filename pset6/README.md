@@ -25,9 +25,9 @@ Steps:
 6.  Great now create a maven, unit-testable, Spring-enabled project (Feel free to reuse the (Greedy template)[https://github.com/MoMenne/launchcode-greedy-template])
 
 7.  Write a command line Java app that does the following things:
-*    Lists all of the Metrolink Stations
-*    Asks the user what station they are currently at
-*    Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
+*    -> Lists all of the Metrolink Stations
+*    -> Asks the user what station they are currently at
+*    -> Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
 
 8.  After watching the following [video]() use JDBC to query the metrolink.db database for the information you need to complete the application
 
