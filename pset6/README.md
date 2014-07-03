@@ -10,11 +10,9 @@ Steps:
 
 2)  Watch the following [video](http://tv.launchcode.us/#/videos/sqlite?lesson=Databases) on the basics how to work with an SQLite database
 
-3)  Brush up on your SQL.  In this video we're going to talk about SELECTs, CREATEs, UPDATEs, JOINs, and VIEWs
+3)  Brush up on your SQL.  For this assignment you need to know about SELECTs and JOINs
 
-4)  Watch this video on how to output text from your queries
-
-5)  We're going to ask some questions of the Metrolink transit data (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
+4)  We're going to ask some questions of the Metrolink transit data (hint:  you can use the [GTFS Documentation](https://developers.google.com/transit/gtfs/reference) for meaning of all the fields)
 
     ->  Question 1:  Write a query to list  all of the Metrolink stations (hint:  all of the metrolink stations contain the words 'METROLINK STATION')
 
@@ -29,7 +27,7 @@ Steps:
     2)  Asks the user what station they are currently at
     3)  Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
 
-8)  After watching the following [video]() use JDBC to query the metrolink.db database for the information you need to complete the application
+8)  After watching the following [video](http://tv.launchcode.us/#/videos/java_jdbc?lesson=Java) use JDBC to query the metrolink.db database for the information you need to complete the application
 
 Email me when you're done.  Happy Coding!
 
