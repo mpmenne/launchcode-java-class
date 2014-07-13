@@ -13,7 +13,7 @@ How do you tell the world that you're finally at **Version 1.0**?
 
 The answer to this is by using tags. git's command line help documentation 
 for this feature is accessible via `git help tag`. If you want an example,
-(sehqlr's word-agent repo)[https://github.com/sehqlr/word-agent] uses them
+[sehqlr's word-agent repo](https://github.com/sehqlr/word-agent) uses them
 sparingly.
 
 Tags are a special commit that serve as a guidepost for someone looking through
