@@ -22,4 +22,4 @@ There will be required reading in this course.  There will only be one or two bo
 
 To get started, fork this repository and take a peek in pset1.
 
-Why not .NET?  Here's why  :-)  [Java Movie](http://youtu.be/kLO1djacsfg)
+Why not .NET?  What this [movie trailer](http://youtu.be/kLO1djacsfg)   :-)
