@@ -34,7 +34,7 @@ Write a command line Java app that does the following things:
 *    -> Asks the user what station they are currently at
 *    -> Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
 
-Use JDBC to query the metrolink.db database to gather the information that you need
+Use [JDBC](http://tv.launchcode.us/#/videos/java_jdbc?lesson=Java) to query the metrolink.db database to gather the information that you need
 
 Email me when you're done.  Happy Coding!
 
