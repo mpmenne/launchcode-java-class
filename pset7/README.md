@@ -11,7 +11,7 @@ Answering these types of questions will give great insight into how Java Framewo
 
 ### How to understand Java Annotations
 
-1)  Watch this (video on LaunchCodeTV)[http://tv.launchcode.us/#/videos/java_spring_annotations?lesson=Java] explaining to transition from Spring XML configurations to annotation based configurations.
+1)  Watch this [video on LaunchCodeTV](http://tv.launchcode.us/#/videos/java_spring_annotations?lesson=Java) explaining to transition from Spring XML configurations to annotation based configurations.
 
 2)  Do this simple exercise making your Java Annotation ... coming soon
 
