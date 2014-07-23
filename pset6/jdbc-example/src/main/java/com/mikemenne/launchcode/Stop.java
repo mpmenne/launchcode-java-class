@@ -7,6 +7,7 @@ import java.util.Date;
  * Date: 7/3/14
  * Time: 1:40 AM
  */
+
 public class Stop {
 
     private String stopName;

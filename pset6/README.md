@@ -5,6 +5,8 @@ PSET 6
 
 We're going to deviate just a bit from the CS50 coursework to delve into the world of data in local style.
 
+Tag your most recent commit and put your new changes on a branch  :-)
+
 Steps:
 1)  Fork the following repository: https://github.com/MoMenne/metrolink-stl-data
 

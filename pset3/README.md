@@ -3,6 +3,7 @@ PSET 3
 
 In this problem set we're going to expand upon our Mario application by refactoring to use the Factory Design Pattern.
 
+* First and foremost tag most recent commit and place all of your new changes on a branch.
 * First, cleanup Mario.java.  Refactor your code so that a Pyramid class encapsulates the core logic.
 * Next, ensure that your Printer interface only accepts Pyramids.  Use "toString" on the pyramid as described in [this video](http://tv.launchcode.us/#/videos/java_override?lesson=Java)).
 * Finally, implement the Factory Design Pattern to hide the instantiation of the Pyramid objects [ here's how video](http://tv.launchcode.us/#/videos/java_factory_design_pattern?lesson=Java).    

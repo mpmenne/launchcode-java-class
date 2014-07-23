@@ -7,6 +7,7 @@ The Singleton design pattern is one of the most widely used and abused Design Pa
 The Spring Framework prevents Singleton abuse and makes you look like a Rockstar.
 
 Steps:
+  * Tag your most recent commit and put your new changes on a branch.
   * Refactor Mario to use the Singleton Design Pattern as described in the [following video](http://tv.launchcode.us/#/videos/java_singleton?lesson=Java).
   * Be sure to note that the Singleton pattern, while good does have it's disadvantages.  Watch [this video](http://tv.launchcode.us/#/videos/java_dependency_injection?lesson=Java)
   * Refactor your code so that you replace the Singleton pattern with Dependency Injection.  Watch [this video](http://tv.launchcode.us/#/videos/java_spring_framework?lesson=Java) about using the Spring Framework to manage your Dependency Injection

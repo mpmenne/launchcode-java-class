@@ -10,7 +10,7 @@ First and foremost:
 * Purcase the book ["Clean Code" by Robert Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * Create the "Mario" application (described in this [video](https://www.youtube.com/watch?v=z32BxNe2Sfc)) using Java instead of C
 * Watch this [video on Java Strings](http://tv.launchcode.us/#/videos/java_strings?lesson=Java) and this [video on Java String Performance](http://tv.launchcode.us/#/videos/java_strings_performance?lesson=Java)
-* When it is complete commit the project as a new repository to Github.
+* When your code is complete, create a new GitHub repository, commit your code locally, and push your code to your new GitHub repo.  Here's a [video on how](http://tv.launchcode.us/#/videos/github?lesson=Git)
 * When you're done, send me an email by using the email address on my [Profile Page](https://github.com/MoMenne)
 
 Creating Mario using Java will help you get used to the Java syntax as well as familiarize yourself with loops and Strings.
