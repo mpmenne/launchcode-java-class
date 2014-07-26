@@ -16,12 +16,9 @@ Answering these types of questions will give great insight into how Java Framewo
 
 2)  Do this simple exercise making your Java Annotation ... coming soon
 
-3)  Use the Hibernate ORM instead of JDBC and of course use annotations ... video coming soon
-
-### Understand Java Object Collections
+### Understand a bit about Java Object Collections
 
 1)  Watch this [video on the equals method](http://tv.launchcode.us/#/videos/java_equals?lesson=Java) and this [video on hashcode method](http://tv.launchcode.us/#/videos/java_hashcode?lesson=Java) 
 
-2)  Update your Hibernate objects to use correct equals and hashcode
 
 Last PSET coming up next!  Great Work.
