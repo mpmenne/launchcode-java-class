@@ -8,7 +8,7 @@ import java.util.Set;
  */
 public class GoodObjectHashCode {
 
-    public static final int MAX_STRINGS = 100000;
+    public static final int MAX_STRINGS = 100_000;
 
     public static void main(String[] varArgs) {
         long start = System.currentTimeMillis();
