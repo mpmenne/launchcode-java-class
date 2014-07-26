@@ -19,10 +19,8 @@ Answering these types of questions will give great insight into how Java Framewo
 
 ### Understand Java Object Collections
 
-1)  Run this code sample and notice how long it takes and that it doesn't return the correct answer ... coming soon
+1)  Watch this [video on the equals method](http://tv.launchcode.us/#/videos/java_equals?lesson=Java) and this [video on hashcode method](http://tv.launchcode.us/#/videos/java_hashcode?lesson=Java) 
 
-2)  Watch this video on equals and hashcode ... video coming soon
-
-3)  Update your Hibernate objects to use correct equals and hashcode
+2)  Update your Hibernate objects to use correct equals and hashcode
 
 Last PSET coming up next!  Great Work.
