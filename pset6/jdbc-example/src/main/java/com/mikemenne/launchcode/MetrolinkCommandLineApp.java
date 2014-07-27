@@ -1,7 +1,9 @@
 package com.mikemenne.launchcode;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 
@@ -10,6 +12,8 @@ import java.util.List;
  * Date: 7/3/14
  * Time: 1:51 AM
  */
+
+@Component
 public class MetrolinkCommandLineApp {
 
     public static void main(String[] varArgs) {
@@ -26,14 +30,9 @@ public class MetrolinkCommandLineApp {
         }
     }
 
+    @Autowired
     private MetrolinkDao metrolinkDao;
+    @Autowired
     private AppOutput appOutput;
 
-    public void setMetrolinkDao(MetrolinkDao metrolinkDao) {
-        this.metrolinkDao = metrolinkDao;
-    }
-
-    public void setAppOutput(AppOutput appOutput) {
-        this.appOutput = appOutput;
-    }
 }
