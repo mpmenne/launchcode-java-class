@@ -30,4 +30,5 @@ NOW keep learning!  ;-)  Here's a Youtube series that picks up where we left off
 The series builds upon everything you have learned and lets you build webapps in Java (the right way ;-)
 
 It's been fun.  Thank you for letting me share Java with you.  Cheers!
+
 Mike Menne
