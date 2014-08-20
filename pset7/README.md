@@ -26,5 +26,5 @@ Great job for making it through.  If you would like to continue learning a great
 
 The series builds upon everything you have learned and lets you build webapps in Java (the right way ;-)
 
-It's been guys.  Cheers!
+It's been fun.  Thank you for letting me share Java with you.  Cheers!
 Mike Menne
