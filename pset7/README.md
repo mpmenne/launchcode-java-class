@@ -20,4 +20,11 @@ There are parts Java that are hidden from the naked eye of the developer.  The w
 1)  Watch this [video on the equals method](http://tv.launchcode.us/#/videos/java_equals?lesson=Java) and this [video on hashcode method](http://tv.launchcode.us/#/videos/java_hashcode?lesson=Java) 
 
 
-Last PSET coming up next!  Great Work.
+Annnnnnndddd that's it!
+
+Great job for making it through.  If you would like to continue learning a great place to start would be [Christopher Henkels' awesome Youtube series on using Spring MVC and Angular.js.
+
+The series builds upon everything you have learned and lets you build webapps in Java (the right way ;-)
+
+It's been guys.  Cheers!
+Mike Menne
