@@ -15,8 +15,6 @@ Topics Include:
 * Unit Testing
 * Test Driven Development
 * Spring
-* Web development in Java
-* Android Development
 
 There will be required reading in this course.  There will only be one or two books and these can purchased cheaply off of Amazon.
 
