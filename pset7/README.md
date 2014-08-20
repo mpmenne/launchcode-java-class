@@ -22,7 +22,7 @@ There are parts Java that are hidden from the naked eye of the developer.  The w
 
 Annnnnnndddd that's it!
 
-Great job for making it through.  If you would like to continue learning a great place to start would be [Christopher Henkels' awesome Youtube series on using Spring MVC and Angular.js.
+Great job for making it through.  If you would like to continue learning a great place to start would be [Christopher Henkels' awesome Youtube series on using Spring MVC and Angular.js.](https://www.youtube.com/watch?v=Sc2atFv_h_I)
 
 The series builds upon everything you have learned and lets you build webapps in Java (the right way ;-)
 
