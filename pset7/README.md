@@ -13,7 +13,10 @@ There are parts Java that are hidden from the naked eye of the developer.  The w
 
 1)  Watch this [video on transitioning from Spring XML configuration to Spring annotations](http://tv.launchcode.us/#/videos/java_spring_annotations?lesson=Java) then watch [this video about the magic behind annotations](http://tv.launchcode.us/#/videos/java_annotations?lesson=Java)
 
-2)  Watch this [video on using Hibernate framework with annotations as opposed to JDBC](http://tv.launchcode.us/#/videos/java_hibernate?lesson=Java).  Then watch this [video on Hibernate primary keys](http://tv.launchcode.us/#/videos/java_hibernate_primary_key?lesson=Java).  This [video on Log4j](http://tv.launchcode.us/#/videos/java_log4j?lesson=Java) might help diagnose any Hibernate issues that come up.  Hibernate has pretty specific versions of its libraries.  Watch [video on NoSuchMethodErrors](http://tv.launchcode.us/#/videos/java_nosuchmethod?lesson=Java) just in case you get in a pinch.   
+### Transitioning to Hibernate (vs. JDBC)
+2)  We're going to use the Hibernate ORM instead of JDBC (Hibernate uses annotations as well).
+3)  Watch this [video on using Hibernate framework with annotations as opposed to JDBC](http://tv.launchcode.us/#/videos/java_hibernate?lesson=Java).  Then watch this [video on Hibernate primary keys](http://tv.launchcode.us/#/videos/java_hibernate_primary_key?lesson=Java).  This [video on Log4j](http://tv.launchcode.us/#/videos/java_log4j?lesson=Java) might help diagnose any Hibernate issues that come up.  Hibernate has pretty specific versions of its libraries.  Watch [video on NoSuchMethodErrors](http://tv.launchcode.us/#/videos/java_nosuchmethod?lesson=Java) just in case you get in a pinch.   
+4)  You may want to use Hibernate criteria queries instead of SQL.  Here are the [docs on criteria queries](https://docs.jboss.org/hibernate/orm/3.3/reference/en-US/html/querycriteria.html)
 
 ### Understand a bit about Java Object Collections
 
