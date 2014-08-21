@@ -9,7 +9,6 @@ There are parts Java that are hidden from the naked eye of the developer.  The w
 
 
 ### How to understand Java Annotations
-0)  Just for fun watch this [video on arrays and java collections](http://tv.launchcode.us/#/videos/java_arrays_vs_collections?lesson=Java) and this [video on Java generics](http://tv.launchcode.us/#/videos/java_generics?lesson=Java).  These don't pertain to annotations much... I just didn't have anywhere else to put them :-)
 
 1)  Watch this [video on transitioning from Spring XML configuration to Spring annotations](http://tv.launchcode.us/#/videos/java_spring_annotations?lesson=Java) then watch [this video about the magic behind annotations](http://tv.launchcode.us/#/videos/java_annotations?lesson=Java)
 
@@ -19,6 +18,7 @@ There are parts Java that are hidden from the naked eye of the developer.  The w
 4)  You may want to use Hibernate criteria queries instead of SQL.  Here are the [docs on criteria queries](https://docs.jboss.org/hibernate/orm/3.3/reference/en-US/html/querycriteria.html)
 
 ### Understand a bit about Java Object Collections
+0)  Just for fun watch this [video on arrays and java collections](http://tv.launchcode.us/#/videos/java_arrays_vs_collections?lesson=Java) and this [video on Java generics](http://tv.launchcode.us/#/videos/java_generics?lesson=Java).  These don't pertain to annotations much... I just didn't have anywhere else to put them :-)
 
 1)  Watch this [video on the equals method](http://tv.launchcode.us/#/videos/java_equals?lesson=Java) and this [video on hashcode method](http://tv.launchcode.us/#/videos/java_hashcode?lesson=Java) 
 
