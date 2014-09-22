@@ -16,5 +16,6 @@ What to do:
 * You should notice that your code has lots of if statements... we're going to get rid of those by using the Strategy Design Pattern
 * Watch the video [Strategy Design Pattern in Java](http://tv.launchcode.us/#/videos/java_strategy?lesson=Java)
 * Use the Strategy Design Pattern to make your code clean and awesome. 
+* If you finish your program and you HAVEN'T used an interface.  Read this [article](http://java.dzone.com/articles/design-patterns-strategy)
 * When you're done, send me an email by using the email address on my [Profile Page](https://github.com/MoMenne)
 
