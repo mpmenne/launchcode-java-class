@@ -5,6 +5,7 @@ PSET 2
 In this problem set you're going to expand the functionality that you wrote in your Mario java program.
 
 Your goal is to offer the user the option of printing Mario to the console OR to a text file.
+----------------------------------------------------------------------------------------------
 
 What to do:
 
