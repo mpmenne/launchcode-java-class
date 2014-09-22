@@ -13,7 +13,7 @@ What to do:
 * Refactor your existing Mario to use proper Java packages.  Open your project in an IDE (preferably Intellij IDEA)
 * Check out the following video on how to create a [Java project in under 4 minutes](http://tv.launchcode.us/#/videos/java_game_10min?lesson=Java) 
 * Implement the functionality mentioned in the summary.  When complete, commit and push to your repository.
-* Watch the following videos on how to handle exceptions in your code [exception basics](http://tv.launchcode.us/#/videos/java_exceptions?lesson=Java), [what everyone should know about exceptions](http://tv.launchcode.us/#/videos/java_exceptions_must_know?lesson=Java), and [the new Java 7 way of handling exceptions](http://tv.launchcode.us/#/videos/java_try_with_resources?lesson=Java)
+* When implementing the file output, be sure to handle your exceptions correctly with these videos [exception basics](http://tv.launchcode.us/#/videos/java_exceptions?lesson=Java), [what everyone should know about exceptions](http://tv.launchcode.us/#/videos/java_exceptions_must_know?lesson=Java), and [the new Java 7 way of handling exceptions](http://tv.launchcode.us/#/videos/java_try_with_resources?lesson=Java)
 * You should notice that your code has lots of if statements... we're going to get rid of those by using the Strategy Design Pattern
 * Watch the video [Strategy Design Pattern in Java](http://tv.launchcode.us/#/videos/java_strategy?lesson=Java)
 * Use the Strategy Design Pattern to make your code clean and awesome. 
