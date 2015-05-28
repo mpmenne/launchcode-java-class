@@ -22,5 +22,3 @@ Check out the following video for working with Java on the command line:
 Helpful Resources:
 
 [Mike's Java Examples](https://github.com/MoMenne/cs50-java-examples)
-
-[Mike's Training for Java Certification](https://github.com/MoMenne/summer-scjp)
