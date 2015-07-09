@@ -31,17 +31,5 @@ Steps:
 
 8)  After watching the following [video](http://tv.launchcode.us/#/videos/java_jdbc?lesson=Java) use JDBC to query the metrolink.db database for the information you need to complete the application
 
-Great now create a maven, unit-testable, Spring-enabled project 
-
-(Feel free to reuse the (Greedy template)[https://github.com/MoMenne/launchcode-greedy-template])
-
-Write a command line Java app that does the following things:
-*    -> Lists all of the Metrolink Stations
-*    -> Asks the user what station they are currently at
-*    -> Displays the amount time until the next arrives (aka 'The next train is arriving in {x} minutes')
-
-Use [JDBC](http://tv.launchcode.us/#/videos/java_jdbc?lesson=Java) to query the metrolink.db database to gather the information that you need
-
-
 Email me when you're done.  Happy Coding!
 
