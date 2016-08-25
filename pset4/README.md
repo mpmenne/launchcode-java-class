@@ -12,6 +12,7 @@ Steps:
   * Be sure to note that the Singleton pattern, while good does have it's disadvantages.  Watch [this video](http://tv.launchcode.us/#/videos/java_dependency_injection?lesson=Java)
   * Refactor your code so that you replace the Singleton pattern with Dependency Injection.  Watch [this video](http://tv.launchcode.us/#/videos/java_spring_framework?lesson=Java) about using the Spring Framework to manage your Dependency Injection.  Once you start using Spring, you will no longer have a need to use the Singleton pattern because of Dependency Injection.
   * In order to use Spring, you have to add a few new Java library jars to your project.  Watch [this video](http://tv.launchcode.us/#/videos/java_maven?lesson=Java) on Maven to learn how to do so.
+  * If you have problems setting up your Spring environment, flip ahead to the [spring project example](https://github.com/MoMenne/launchcode-java-class/tree/master/pset6) in PSET6. 
   
 Last problem working with Mario; moving on to some of my favorite topics of the entire course.
 
